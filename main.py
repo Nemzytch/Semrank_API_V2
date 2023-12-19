@@ -5,7 +5,7 @@ import requests
 
 @app.route('/')
 def hello_world():
-    return 'Hellooooooaaaaa, Worldo!'
+    return 'PYTHON GIT PULL!'
 
 @app.route('/test')
 def test():
